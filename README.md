@@ -8,7 +8,7 @@ I'm a Data Scientist, Machine Learning Engineer and Soccer lover. I love scuba d
 
 _Technology Used:_ AWS, Python, Pandas, Solidity
 
-👨‍💻**_Healthcare Fraud Detection_** - Making a classification algorithm to detect 7 different types of healthcare claims fraud. Merging and cleaning the data sets from different healthcare institutions using ETL pipelining.
+‍💻 **_Healthcare Fraud Detection_** - Making a classification algorithm to detect 7 different types of healthcare claims fraud. Merging and cleaning the data sets from different healthcare institutions using ETL pipelining.
 
 _Technology Used:_ SQLServer, Python, SQL, PowerBI
 
