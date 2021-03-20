@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there. I'm [Saheb](https://www.linkedin.com/in/saheb-singh7) 👋
+
+I'm a Data Scientist, Machine Learning Engineer and Soccer lover. I love scuba diving 🤿 and solving real-life problems using data science algorithms 📊. Currently working as a Data Science Research Assistant at Syracuse University 🍊and as a Data Analyst at iConsult Collaborative.
+
+## Current Projects
+
+☁️ [**_Blockchain Public Auditing with de-duplication_**] - I'm working on developing public auditing system using Smart Contract on Ethereum Blockchain with de-duplication and protection against procrastinating auditors.
+
+_Technology Used:_ AWS, Python, Pandas, Solidity
+
+👨‍💻[**_Healthcare Fraud Detection_**] - I'm 
 
 <!--
 **robinsaheb/robinsaheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
