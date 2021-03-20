@@ -4,11 +4,11 @@ I'm a Data Scientist, Machine Learning Engineer and Soccer lover. I love scuba d
 
 ## Current Projects
 
-☁️ [**_Blockchain Public Auditing with de-duplication_**] - I'm working on developing public auditing system using Smart Contract on Ethereum Blockchain with de-duplication and protection against procrastinating auditors.
+☁️ **_Blockchain Public Auditing with de-duplication_** - I'm working on developing public auditing system using Smart Contract on Ethereum Blockchain with de-duplication and protection against procrastinating auditors.
 
 _Technology Used:_ AWS, Python, Pandas, Solidity
 
-👨‍💻[**_Healthcare Fraud Detection_**] - I'm 
+👨‍💻**_Healthcare Fraud Detection_** - I'm 
 
 <!--
 **robinsaheb/robinsaheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
