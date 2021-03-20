@@ -4,11 +4,11 @@ I'm a Data Scientist, Machine Learning Engineer and Soccer lover. I love scuba d
 
 ## Current Projects
 
-☁️ [**_Blockchain Public Auditing with de-duplication_**] - I'm working on developing public auditing system using Smart Contract on Ethereum Blockchain with de-duplication and protection against procrastinating auditors.
+☁️ **_Blockchain Public Auditing with de-duplication_** - I'm working on developing public auditing system using Smart Contract on Ethereum Blockchain with de-duplication and protection against procrastinating auditors.
 
 _Technology Used:_ AWS, Python, Pandas, Solidity
 
-‍💻 [**_Healthcare Fraud Detection_**] - Making a classification algorithm to detect 7 different types of healthcare claims fraud. Merging and cleaning the data sets from different healthcare institutions using ETL pipelining.
+‍💻 **_Healthcare Fraud Detection_** - Making a classification algorithm to detect 7 different types of healthcare claims fraud. Merging and cleaning the data sets from different healthcare institutions using ETL pipelining.
 
 _Technology Used:_ SQLServer, Python, SQL, PowerBI
 
