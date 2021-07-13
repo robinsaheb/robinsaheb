@@ -1,6 +1,6 @@
 ### Hi there. I'm [Saheb](https://www.linkedin.com/in/saheb-singh7) 👋
 
-I'm a Data Engineer, Machine Learning Engineer and Soccer lover. I love scuba diving 🤿 and solving real-life problems using data engineering technologies 📊. Currently working as a Data Engineer at Uplift after graduating from Syracuse University 🍊.
+I'm a Data Engineer, Machine Learning Engineer and a Soccer lover. I love scuba diving 🤿 and solving real-life problems using data engineering technologies 📊. Currently working as a Data Engineer at Uplift after graduating from Syracuse University 🍊.
 
 ## Current Projects
 
